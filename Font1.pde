@@ -1,3 +1,9 @@
+/**
+     A Super Simple 'G' drawn by rectangle and circle matrixes.
+     wang ying hsuan 25/08/2012
+     ying_hsuan52@hotmail.com
+  */
+
 size(400,400);
 smooth();
 background(255);
